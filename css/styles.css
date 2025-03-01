@@ -1,0 +1,30 @@
+.bx{
+    font-size: 32px;
+    cursor: pointer;
+    transform:translateY(-36px);
+}
+.bx:before{
+    font-size: 30px;
+    cursor: pointer;
+    transform: translateY(-35px);
+}
+.bx-hide:before{
+    font-size: 30px;
+    cursor: pointer;
+    transform: translateY(-35px);
+}
+.ojo{
+    display: flex;
+    justify-content: end;
+    display: flex; 
+    justify-content: flex-end;
+}
+
+.avatar{
+    max-width: 50px;
+    border-radius: 50%;
+    padding-right: 5px;
+}
+.option{
+    width: 5%;
+}
