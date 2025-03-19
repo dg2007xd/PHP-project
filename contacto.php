@@ -29,7 +29,7 @@ session_start();
 
     <div class="container mt-4 mb-4">
         <h2 class="mb-5">¿Problemas o dudas?, consulte aca :)</h2>
-        <iframe class="img-fluid" style="min-height: 450px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.2692577547627!2d-77.05290427254499!3d-12.093710308158405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c9aa6b702e0f%3A0x55c71153c8c3bda4!2sISIL%20-%20San%20Isidro!5e0!3m2!1ses!2spe!4v1728500745451!5m2!1ses!2spe" width="1300" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe class="img-fluid" style="min-height: 450px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1950.7690212595178!2d-77.00605524651053!3d-12.075273187025392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c628da13091f%3A0xc78010938f7eb3cd!2sParque%20de%20los%20Reyes!5e0!3m2!1ses-419!2spe!4v1742388752613!5m2!1ses-419!2spe" width="1300" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
 
